@@ -20,7 +20,6 @@
 
 
 {
-
     // put update code here
     
     // Increment the time since the last obstacle was added
